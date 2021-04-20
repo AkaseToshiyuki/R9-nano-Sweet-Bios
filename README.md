@@ -1,7 +1,8 @@
 # R9-nano-Sweet-Bios
-ENG version
 
-Sweet Point vBios for AMD Readon R9 nano
+ENG version
+-----
+**Sweet Point vBios for AMD Readon R9 nano**
 
 
 These Bios files is already tested on my R9 nano for over half years, and I have tried my best to figure out the "sweet point" for R9 nano. 
@@ -24,9 +25,9 @@ I'm strongly recommend you that unzip ATIflash Tool in your C: disk and run it u
 
 
 CHS version
+-----
 
-
-AMD R9 Nano的最佳功耗点vBios
+**AMD R9 Nano的最佳功耗点vBios**
 
 
 我会在vBios文件上列出主要的性能指标和在不同温度下的风扇速度，这样你可以决定自己使用哪一个。
