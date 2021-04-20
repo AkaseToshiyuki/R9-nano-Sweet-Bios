@@ -8,8 +8,8 @@ Of course you at least should have following items:
 And here is my test platform
 
 CPU: Intel ES QTJ2 6C12T
-
-MEM: Geil DDR4-2666 8Gx2  GPU: AMD Readon R9 Nano
+MEM: Geil DDR4-2666 8Gx2
+GPU: AMD Readon R9 Nano
 
 
 # vBios Flash Guidance(CHS Ver.)
