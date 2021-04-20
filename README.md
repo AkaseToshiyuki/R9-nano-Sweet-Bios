@@ -1,6 +1,6 @@
 # R9-nano-Sweet-Bios
 
-##ENG version
+## ENG version
 
 **Sweet Point vBios for AMD Readon R9 nano**
 
@@ -24,7 +24,7 @@ I'm strongly recommend you that unzip ATIflash Tool in your C: disk and run it u
 All above is my little tips and now let's get start!
 
 
-##CHS version
+## CHS version
 
 **AMD R9 Nano的最佳功耗点vBios**
 
