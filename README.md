@@ -1,7 +1,7 @@
 # R9-nano-Sweet-Bios
 
-ENG version
------
+##ENG version
+
 **Sweet Point vBios for AMD Readon R9 nano**
 
 
@@ -21,11 +21,10 @@ You need a tool to flash the edited vBios file into your card, here we will use 
 
 I'm strongly recommend you that unzip ATIflash Tool in your C: disk and run it under administrator privilege, which will help you out of many trouble.
 
+All above is my little tips and now let's get start!
 
 
-
-CHS version
------
+##CHS version
 
 **AMD R9 Nano的最佳功耗点vBios**
 
@@ -45,4 +44,7 @@ CHS version
 你需要一个写入工具来帮你刷写显卡vBios，在这里建议使用ATIflash Tool，GUI和汉化可以帮助你快速了解你要干什么。你可以在这里下载该软件 https://www.techpowerup.com/download/ati-atiflash/
 
 强烈建议你把这个软件放在C盘根目录下并且用管理员模式运行，有任何问题请先考虑是不是这一步出错。
+
+提醒结束，教程开始。
+
 
