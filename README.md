@@ -21,7 +21,7 @@ You need a tool to flash the edited vBios file into your card, here we will use 
 
 I'm strongly recommend you that unzip ATIflash Tool in your C: disk and run it under administrator privilege, which will help you out of many trouble.
 
-All above is my little tips and now let's get start! Please turn to [**vBios Flash Guidance.md**]() for further guide.
+All above is my little tips and now let's get start! Please turn to [**vBios Flash Guidance.md**](https://github.com/AkaseToshiyuki/R9-nano-Sweet-Bios/blob/main/vBios%20Flash%20Guidance.md) for further guide.
 
 
 ## CHS version
@@ -45,6 +45,6 @@ All above is my little tips and now let's get start! Please turn to [**vBios Fla
 
 强烈建议你把这个软件放在C盘根目录下并且用管理员模式运行，有任何问题请先考虑是不是这一步出错。
 
-提醒结束，教程开始。来[**教程**]()这边学习姿势。
+提醒结束，教学开始。来[**教程**](https://github.com/AkaseToshiyuki/R9-nano-Sweet-Bios/blob/main/vBios%20Flash%20Guidance.md)这边学习姿势。
 
 
