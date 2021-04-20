@@ -7,9 +7,17 @@ Of course you at least should have following items:
 * Hands and brain could function normally
 And here is my test platform
 
-CPU: Intel ES QTJ2 6C12T
+CPU: Intel I7-10750H ES (QTJ2)
+
 MEM: Geil DDR4-2666 8Gx2
+
 GPU: AMD Readon R9 Nano
+
+MB: BIOSTAR TBS-250
+
+SSD: Micron 1100 512G
+
+
 
 
 # vBios Flash Guidance(CHS Ver.)
