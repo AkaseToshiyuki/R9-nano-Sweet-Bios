@@ -17,7 +17,7 @@ And if you unfortunately "bricked" your card, try to find a small switch on the 
 
 All of the vBios is added support of UEFI boot up and the UEFI support code is from ASUS R9 nano vBios from https://www.techpowerup.com/vgabios/. 
 
-You need a tool to flash the edited vBios file into your card, here we will use ATIflash Tool because the pretty and sexy GUI could make operation not so boring. And you can download this tool from here https://www.techpowerup.com/download/ati-atiflash/. 
+You need a tool to flash the edited vBios file into your card, here we will use ATIflash Tool because the pretty and sexy GUI could make operation not so boring. And you can download this tool from here https://www.techpowerup.com/download/ati-atiflash/ I'll delete the URL if there is any infringement. 
 
 I'm strongly recommend you that unzip ATIflash Tool in your C: disk and run it under administrator privilege, which will help you out of many trouble.
 
