@@ -6,13 +6,13 @@ Of course you at least should have following items:
 * A power supply(ATX\SFX\Flex) at least have one 8 pin graphic card power supply plug
 * Hands and brain could function normally
 
-And here is my test platform
+And here is my test platform：
 
 CPU: Intel I7-10750H ES (QTJ2)
 
 MEM: Geil DDR4-2666 8Gx2
 
-GPU: AMD Readon R9 Nano
+GPU: AMD Readon R9 Nano（His)
 
 MB: BIOSTAR TBS-250
 
