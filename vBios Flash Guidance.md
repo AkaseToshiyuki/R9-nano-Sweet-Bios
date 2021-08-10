@@ -5,6 +5,7 @@ Of course you at least should have following items:
 * A computer running Windows 10 and at least have one **PCI-E X16** slot
 * A power supply(ATX\SFX\Flex) at least have one 8 pin graphic card power supply plug
 * Hands and brain could function normally
+
 And here is my test platform
 
 CPU: Intel I7-10750H ES (QTJ2)
